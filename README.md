@@ -23,7 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://chalanis.github.io/" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/256/internet.png" alt="chalanisaumya" height="30" width="40" /></a>
+<a href=https://kmsdulshan.github.io/ target="blank"><img align="center" src="https://img.icons8.com/ios-filled/256/internet.png" alt="kmsdulshan" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/dulshan ranaweerahttps://www.linkedin.com/in/dulshan-ranaweera-0b405a250?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dulshan ranaweerahttps://www.linkedin.com/in/dulshan-ranaweera-0b405a250?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" height="30" width="40" /></a>
 <a href="https://fb.com/dulshan ranaweerahttps://www.facebook.com/sumudu.dulshan.7?mibextid=lqqj4d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dulshan ranaweerahttps://www.facebook.com/sumudu.dulshan.7?mibextid=lqqj4d" height="30" width="40" /></a>
 <a href="https://instagram.com/dulaa_dn__https://instagram.com/dulaa_dn__?igshid=m2rkzgjimzhjoq%3d%3d&utm_source=qr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dulaa_dn__https://instagram.com/dulaa_dn__?igshid=m2rkzgjimzhjoq%3d%3d&utm_source=qr" height="30" width="40" /></a>
